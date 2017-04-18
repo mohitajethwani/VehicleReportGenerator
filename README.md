@@ -13,7 +13,7 @@ Pretend the economy is terrible for software folks and you work for a shady car 
 4. Summarize what happens in season 1 of the X-Files. (Just kidding)
  
 Vehicles
-Type, VIN, brand, color, engine type, price, year
+Type, VIN, brand, color, engine type, price, year<br />
 Truck, 1234, GMC, Red, Gas, 24000, 2016
 Car, 1235, Toyota, Green, Hybrid, 27000, 2015
 Car, 1236, Toyota, Red, Gas, 19000, 2015

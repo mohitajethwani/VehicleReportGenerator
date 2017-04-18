@@ -1,8 +1,6 @@
 # VehicleReportGenerator
 Application that generates vehicle information for a car dealer
 
-___
-
 ### Problem Statement
 Pretend the economy is terrible for software folks and you work for a shady car dealership. Let's say you have a static collection of vehicles in our inventory. You have trucks, cars, motorcycles and bicycles in the collection of vehicles. Each vehicle has a VIN (Vehicle Identifier Number), brand, color, engine type (Gas, Electric, Hybrid, None), price, year (and any other attributes you care to add.)
  
@@ -14,7 +12,7 @@ Pretend the economy is terrible for software folks and you work for a shady car 
 
 4. Summarize what happens in season 1 of the X-Files. (Just kidding)
  
-**Vehicles**<br />
+**Vehicles**<br /><br />
 Type, VIN, brand, color, engine type, price, year<br />
 Truck, 1234, GMC, Red, Gas, 24000, 2016<br />
 Car, 1235, Toyota, Green, Hybrid, 27000, 2015<br />

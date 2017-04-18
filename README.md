@@ -59,4 +59,7 @@ The average cost per type is then calculated by iterating over the HashMap and t
 The average cost of vehicles per brand, color and engine type sorted by price is listed in the similar way.<br /><br />
 
 ### Screenshots of the output
+![alt text](https://github.com/mohitajethwani/VehicleReportGenerator/blob/master/BCHProj/images/1.PNG)
+![alt text](https://github.com/mohitajethwani/VehicleReportGenerator/blob/master/BCHProj/images/2.PNG)
+<br />
 

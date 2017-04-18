@@ -49,7 +49,7 @@ The file vehicle.txt is read by the program which generates reports with the fol
 
 The above information was obtained by creating a REST service in Spring Boot for which JDK 1.8 was used. The service was deployed on Tomcat 8 on HTTP port 8082.<br /><br />
 The project BCHProj needs to be run as a spring boot application.<br /><br />
-The service returns a JSON response.
+The service returns a JSON response.<br />
 
 #### Implementation details
 The file vehicles.txt is read line by line and tokens are obtained by splitting each line based on ",". Vehicles is a class with the getters and setters of the vehicle attributes- VIN, type, brand, color, engine type, price and year.<br /><br />
@@ -58,5 +58,5 @@ To list the average cost of vehicles by type sorted by price, a HashMap is used 
 The average cost per type is then calculated by iterating over the HashMap and then a TreeMap is used to store the average cost and the type of the vehicle. Average cost is the key and the type is the value. The TreeMap is then read to print the output.<br /><br />
 The average cost of vehicles per brand, color and engine type sorted by price is listed in the similar way.<br /><br />
 
-
+### Screenshots of the output
 
